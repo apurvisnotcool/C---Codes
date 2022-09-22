@@ -14,7 +14,8 @@ int main(){
     cout << "       c c c         s s s s       00\n";
     cout << "*****************************************\n";
     cout << "Computer Science is Cool Stuff !!!\n";
-    
+
+    return 0;
     
     
 }
